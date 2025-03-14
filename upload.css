@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+input, textarea{
+    color: white;
+    background-color: #1e1e1e;
+    border-color: white;
+    border-radius: 5px;
+    border: solid;
+    padding: 5px;
+    border-width: 1px;
+    font-family: 'Arial';
+    width: 250px;
+}
